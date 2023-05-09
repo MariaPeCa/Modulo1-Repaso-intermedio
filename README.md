@@ -1,6 +1,6 @@
-# Modulo1-Repaso-intermedio
+## Modulo1-Repaso-intermedio
 
-# Repaso intermedio
+## Repaso intermedio
 
 Hola Adalaber! Has llegado a la mitad del módulo 1 por lo que te proponemos que soluciones este ejercicio que te servirá para repasar todos los temas que hemos visto hasta ahora :)
 
